@@ -10,6 +10,7 @@ public class Location {
 	private String code;
 	private String name;
 	private String type;
+	private String man;
 	
 	
 	@Override
@@ -39,6 +40,12 @@ public class Location {
 	}
 	public void setType(String type) {
 		this.type = type;
+	}
+	public String getMan() {
+		return man;
+	}
+	public void setMan(String man) {
+		this.man = man;
 	}
 	
 	
