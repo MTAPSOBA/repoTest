@@ -12,7 +12,7 @@ public class Location {
 	private String type;
 	
 	
-	//t
+
 	@Override
 	public String toString() {
 		return "Location [id=" + id + ", code=" + code + ", name=" + name + ", type=" + type + "]";
