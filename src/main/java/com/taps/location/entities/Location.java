@@ -11,7 +11,7 @@ public class Location {
 	private String name;
 	private String type;
 	
-	//cn
+	
 	
 	@Override
 	public String toString() {
