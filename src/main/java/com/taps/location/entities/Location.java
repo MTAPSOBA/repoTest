@@ -2,7 +2,7 @@ package com.taps.location.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-
+//rr
 @Entity
 public class Location {
 	@Id
