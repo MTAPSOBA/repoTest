@@ -8,7 +8,6 @@ public class LocationWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LocationWebApplication.class, args);
-//		SpringApplication.run(LocationWebApplication.class, args);
 	}
 
 }
